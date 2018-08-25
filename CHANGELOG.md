@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="9.4.6"></a>
+## [9.4.6](https://github.com/tomchentw/react-google-maps/compare/v9.4.5...v9.4.6) (2018-08-25)
+
+### Features
+
+* **Circle:** allow to pass children to Circle i.e. InfoBox or InfoWindow ([70f76e9](https://github.com/vizum/react-google-maps/commit/70f76e9))
+
+
+### Bug Fixes
+
+* **build:** fix "destructure non-iterable instance" error while building ([bbe0038](https://github.com/vizum/react-google-maps/commit/bbe0038))
+
+
 <a name="9.4.5"></a>
 ## [9.4.5](https://github.com/tomchentw/react-google-maps/compare/v9.4.4...v9.4.5) (2018-01-05)
 

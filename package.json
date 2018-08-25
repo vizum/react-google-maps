@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/vizum/react-google-maps/issues"
   },
-  "homepage": "https://tomchentw.github.io/react-google-maps/",
+  "homepage": "https://github.com/vizum/react-google-maps",
   "main": "lib/index.js",
   "files": ["types/index.d.ts", "lib", "CHANGELOG.md"],
   "directories": {
